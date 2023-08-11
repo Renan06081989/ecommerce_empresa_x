@@ -45,3 +45,11 @@ Vamos criar um **e-commerce**, para a *empresa X* e blabla
 Contribuidor principal: https://github.com/Renan06081989
 
 [![Logo da uol](https://blog.publicidade.uol.com.br/wp-content/uploads/2021/04/marca-positiva-rgb.jpg)](https://github.com/Renan06081989)
+
+## Código da função soma
+
+```javascript
+function soma (a, b){
+    return a + b;
+}
+```
