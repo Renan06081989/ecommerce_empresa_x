@@ -38,4 +38,4 @@ Vamos criar um **e-commerce**, para a *empresa X* e blabla
 
 ## Links interessantes:
 
-[Uol](https://www.uol.com.br)
+[Compass.uol](https://compass.uol)
