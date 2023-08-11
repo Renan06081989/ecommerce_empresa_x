@@ -35,3 +35,7 @@ Vamos criar um **e-commerce**, para a *empresa X* e blabla
 ### Imagem externa
 
 ![logo da uol](https://blog.publicidade.uol.com.br/wp-content/uploads/2021/04/marca-positiva-rgb.jpg)
+
+## Links interessantes:
+
+[Uol](https://www.uol.com.br)
