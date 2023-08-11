@@ -43,3 +43,5 @@ Vamos criar um **e-commerce**, para a *empresa X* e blabla
 [https://www.uol.com.br](https://www.uol.com.br)
 
 Contribuidor principal: https://github.com/Renan06081989
+
+[![Logo da uol](https://blog.publicidade.uol.com.br/wp-content/uploads/2021/04/marca-positiva-rgb.jpg)](https://github.com/Renan06081989)
