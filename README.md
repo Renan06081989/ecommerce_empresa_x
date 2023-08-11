@@ -40,6 +40,6 @@ Vamos criar um **e-commerce**, para a *empresa X* e blabla
 
 [Compass.uol](https://compass.uol)
 
-[https://www.uol.com.br]
+[https://www.uol.com.br](https://www.uol.com.br)
 
 Contribuidor principal: https://github.com/Renan06081989
