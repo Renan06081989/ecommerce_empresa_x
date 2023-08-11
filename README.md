@@ -31,3 +31,7 @@ Vamos criar um **e-commerce**, para a *empresa X* e blabla
 #### Imagem local
 
 ![logo da Compass](img/Logo_CompassoUOL_Positivo.png)
+
+### Imagem externa
+
+![logo da uol](https://blog.publicidade.uol.com.br/wp-content/uploads/2021/04/marca-positiva-rgb.jpg)
