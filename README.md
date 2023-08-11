@@ -27,3 +27,7 @@ Vamos criar um **e-commerce**, para a *empresa X* e blabla
       3. CSS diferente para grupos de cliente
   2. Integração com outros pagamentos
   3. Sistema de bônus primeira compra
+
+#### Imagem local
+
+![logo da Compass](img/Logo_CompassoUOL_Positivo.png)
