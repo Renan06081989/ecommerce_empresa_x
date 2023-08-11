@@ -21,7 +21,7 @@ Vamos criar um **e-commerce**, para a *empresa X* e blabla
 
   ### Funcionalidades a desenvolver:
   
-  1. Área de menbros
+  1. Área de membros
       1. Login diferente para grupos de cliente
       2. Desconto especial para grupos de cliente
       3. CSS diferente para grupos de cliente
